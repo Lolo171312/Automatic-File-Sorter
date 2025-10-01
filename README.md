@@ -61,11 +61,12 @@ It uses the built-in `os` and `shutil` libraries to scan files, create categoriz
 
 &nbsp;  └── Image Files
 
-&nbsp;       ├── photo.jpg
+&nbsp;  │    └── photo.txt
 
-&nbsp;       └── graphic.png
+&nbsp;  │    └── graphic.txt
 
 
-##Purpose
+## Purpose
+
 This project demonstrates how to use Python for file automation and organization, showcasing skills in working with the filesystem, dictionaries, and conditional logic.
 It is also part of my portfolio, illustrating practical problem-solving with Python.
