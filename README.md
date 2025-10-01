@@ -38,21 +38,33 @@ It uses the built-in `os` and `shutil` libraries to scan files, create categoriz
 ### Before running the script:
 
 /Downloads
+
 &nbsp;  ├── report.csv
+
 &nbsp;  ├── notes.txt
+
 &nbsp;  ├── photo.jpg
+
 &nbsp;  ├── graphic.png
 
-###After running the script:
+### After running the script:
 
 /Downloads
+
 &nbsp;  ├── CSV Files
+
 &nbsp;  │    └── report.csv
+
 &nbsp;  ├── Text Files
+
 &nbsp;  │    └── notes.txt
+
 &nbsp;  └── Image Files
+
 &nbsp;       ├── photo.jpg
+
 &nbsp;       └── graphic.png
+
 
 ##Purpose
 This project demonstrates how to use Python for file automation and organization, showcasing skills in working with the filesystem, dictionaries, and conditional logic.
